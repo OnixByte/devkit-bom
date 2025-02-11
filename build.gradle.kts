@@ -39,7 +39,7 @@ publishing {
 
             pom {
                 name = "DevKit BOM"
-                description = ""
+                description = "Using BOM could use unified OnixByte JDevKit."
                 url = "https://github.com/OnixByte/devkit-bom"
 
                 licenses {
